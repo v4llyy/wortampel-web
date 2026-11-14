@@ -1,3 +1,3 @@
 # wortampel-web
 
-Support- und Datenschutzseite der iPhone-App Wortampel.
+Support- und Datenschutzseite der App Wortampel für iPhone und iPad.
